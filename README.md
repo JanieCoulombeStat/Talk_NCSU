@@ -1,5 +1,5 @@
 # Talk_NCSU
-Slides for my talk at the Department of Statistics, NCSU on Oct. 19, 2021
+Slides of my talk at the Department of Statistics, NCSU on Oct. 19, 2021
 
 Abstract:
  
